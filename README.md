@@ -16,7 +16,6 @@ BCRYPT_SALT_ROUNDS=12
   Client side - http://127.0.0.1:5500/client/
   
   Server side - http://127.0.0.1:3000/posts
-  -
   ```
   ## Current bugs
 
